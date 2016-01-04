@@ -1,2 +1,1 @@
-# salttop
 # edgarlab-saltstates
